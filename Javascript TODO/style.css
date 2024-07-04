@@ -1,0 +1,16 @@
+.input {
+    border-radius: 25px;
+    margin-bottom: 20px;
+    border: 2px solid blue;
+    box-shadow: coral;
+  }
+  .input:hover {
+    border-radius: 25px;
+    margin-bottom: 20px;
+    border: 2px solid green;
+    box-shadow: violet;
+  }
+  button {
+    border-radius: 20px;
+    cursor: pointer;
+  }
